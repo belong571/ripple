@@ -1,0 +1,23 @@
+{
+  "name": "react-native-ripple-android",
+  "version": "0.0.1",
+  "description": "react-native bridge ripple android sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belong571/ripple.git"
+  },
+  "keywords": [
+    "react-native",
+    "ripple"
+  ],
+  "author": "belong71",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belong571/ripple/issues"
+  },
+  "homepage": "https://github.com/belong571/ripple#readme"
+}

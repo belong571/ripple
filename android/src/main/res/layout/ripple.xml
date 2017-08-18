@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.imall.react_native_ripple.view.RippleView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rect"
+    android:layout_width="wrap_content"
+    android:layout_height="100dp">
+</com.imall.react_native_ripple.view.RippleView>
