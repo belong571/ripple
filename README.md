@@ -1,7 +1,7 @@
 # react-native-ripple-android
 在ReactNative使用水波纹效果(仅限android) 
 
-#installation
+# installation
 ```
 npm install react-native-ripple-android --save
 ```
@@ -94,6 +94,6 @@ const styles = StyleSheet.create({
 ```
 
 
-#At last, 祝玩得愉快。
+# At last, 祝玩得愉快。
 
 
