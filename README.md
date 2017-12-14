@@ -1,6 +1,9 @@
 # react-native-ripple-android
 在ReactNative使用水波纹效果(仅限android) 
 
+# preview
+![](http://upload-images.jianshu.io/upload_images/6722970-3d51bbae8e86ae88.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50)
+
 # installation
 ```
 npm install react-native-ripple-android --save
